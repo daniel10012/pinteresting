@@ -15,3 +15,5 @@
 /log/*.log
 /tmp
 # add file
+/public/system/*
+# doesn't commit images from database
